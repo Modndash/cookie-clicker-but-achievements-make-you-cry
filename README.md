@@ -10,5 +10,6 @@ http://orteil.dashnet.org/cookieclicker/
 Here is the orteil home page:
 http://orteil.dashnet.org/
 
+To use this mod, run index.html to play the mod.
 
-The purpose of this repository is to provide a jumping off point for javascript programming for Coder Dojo members.
+-- KEEP IN MIND: NO SAVES
