@@ -1,4 +1,5 @@
-cookie-clicker
+Cookie Clicker but achievements make you cry
+# Made by Modndash
 ==============
 
 This is a copy of the publicly available source of the game cookie clicker by orteil.  
