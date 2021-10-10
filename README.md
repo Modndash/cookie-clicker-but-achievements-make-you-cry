@@ -1,2 +1,3 @@
-# cookieclicker-modachievements-cry
+# Cookie Clicker but achievements make you cry..
 Cookie clicker from dashnet but achievements roast you...
+Super sad
